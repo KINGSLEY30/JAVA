@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-way , truth and  life
+Way , Truth and Life
 
-This is from bub branch
->>>>>>> bug
+
+It is main branch
