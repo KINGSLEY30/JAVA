@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Way , Truth and Life
 
 
 It is main branch
+=======
+Way , Truth and  Life
+
+It is bug branch
+>>>>>>> bug
