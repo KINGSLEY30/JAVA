@@ -1,11 +1,3 @@
-<<<<<<< HEAD
 LIFE
-=======
-
-WAY
-
-IT IS QA BRANCH.
-
->>>>>>> qa
 
 IT IS MAIN BRANCH.
