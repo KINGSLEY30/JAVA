@@ -1,5 +1,10 @@
 Salt to world.
 
+<<<<<<< HEAD
 It is main branch.
 
 Now time is 3:40 in main branch
+=======
+ It is  qa branch
+ Now Time is 3:38 in qa branch 
+>>>>>>> qa
