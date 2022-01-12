@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Way , Truth and Life
 
+<<<<<<< HEAD
 
 It is main branch
 =======
@@ -8,3 +9,6 @@ Way , Truth and  Life
 
 It is bug branch
 >>>>>>> bug
+=======
+ It is  qa branch
+>>>>>>> qa
