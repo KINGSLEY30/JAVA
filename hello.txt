@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-Way , Truth and Life
+Salt to world.
 
-<<<<<<< HEAD
+It is main branch.
 
-It is main branch
-=======
-Way , Truth and  Life
-
-It is bug branch
->>>>>>> bug
-=======
- It is  qa branch
->>>>>>> qa
+Now time is 3:40 in main branch
