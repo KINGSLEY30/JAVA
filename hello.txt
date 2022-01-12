@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 CSS BRANCHES 
+=======
+** This is CSS branch. **
+>>>>>>> parent of 31ccc7e (CSS)
 
 
