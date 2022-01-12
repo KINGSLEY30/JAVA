@@ -6,7 +6,7 @@
 =======
   WAY
 
-    ** THIS IS QA BRANCH. **
+    *** THIS IS QA BRANCH. ***
 
 >>>>>>> qa
 =======
