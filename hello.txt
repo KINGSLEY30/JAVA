@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 way , truth and  life
 
-this is from  main branch
+This is from bub branch
+>>>>>>> bug
