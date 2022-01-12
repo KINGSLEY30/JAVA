@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Life
 It is main branch
+=======
+Truth
+
+It is bug branch
+
+>>>>>>> bug
