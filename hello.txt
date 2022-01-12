@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Life
-It is main branch
-=======
-Truth
+LIFE
 
-It is bug branch
-
->>>>>>> bug
-=======
-way
-
-It is  qa branch
-
->>>>>>> qa
+IT IS MAIN BRANCH.
